@@ -1,7 +1,5 @@
 import telebot
-import parser
 import bs4
-import parser
 
 #main variables
 TOKEN = "bot446260100:AAGH6JR31j2IMefwoW5zBph-P9zlT_lPHE4"
